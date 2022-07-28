@@ -19,11 +19,10 @@ li {
 
 
 /* NAVBAR STYLING STARTS */
-.navbar {
-    display: flex;
+ #mainNav{
+    /* display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 20px;
+    justify-content: space-between; */
     background-color: teal;
     color: #fff;
 }
@@ -33,8 +32,9 @@ li {
 }
 
 /* LOGO */
-.logo {
+.navbar-brand {
     font-size: 32px;
+    color: white;
 }
 
 /* NAVBAR MENU */
